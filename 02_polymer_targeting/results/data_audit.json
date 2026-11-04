@@ -1,0 +1,704 @@
+{
+  "long_rows": 2345,
+  "raw_formulations": 534,
+  "all_material_24h_pairs": 378,
+  "polymeric_24h_pairs": 142,
+  "polymeric_publications": 72,
+  "polymeric_exact_24h": 142,
+  "core_counts": {
+    "Polymeric": 142,
+    "Gold": 54,
+    "Liposome": 34,
+    "Silica": 26,
+    "Hydrogel": 15,
+    "Other-Graphene": 9,
+    "Dendrimer": 9,
+    "Iron Oxide": 8,
+    "Other-MWCNT": 5,
+    "Other-Anticancer drug": 4,
+    "Other-SLN": 4,
+    "Copper": 4,
+    "Gadolinium": 4,
+    "Manganese": 4,
+    "Other-Albumin": 3,
+    "Silica/PDA": 2,
+    "Other-Soy protein": 2,
+    "Titanium": 2,
+    "Polymeric/\nHydrogel": 2,
+    "Other-Curcumin": 2,
+    "Other-SiO2@AuNR": 2,
+    "Silica/Liposome": 2,
+    "Other-SWCNT": 2,
+    "Tungsten Disulfide": 2,
+    "Ruthenium": 2,
+    "Platnium": 2,
+    "Other": 2,
+    "Other-VNP": 1,
+    "Other-Bi2Se3": 1,
+    "Other-MoS2-Fe3O4": 1,
+    "Other-CaP": 1,
+    "Other- Manganese": 1,
+    "Iron Oxide/Polymeric": 1,
+    "Other-Cobalt": 1,
+    "Other-Mg2Al-Co3 LDH": 1,
+    "Other-Gd3N@C80/Polymeric": 1,
+    "Other-10-HCPT (SN38)": 1,
+    "Other-HA NPs": 1,
+    "Other-PMCN": 1,
+    "Other-10-HCPT anticancer drug/ \nPolymeric": 1,
+    "copper,cedium": 1,
+    "copper": 1,
+    "molybdenum disulfide": 1,
+    "Other-Anticancer drug (PTX)": 1,
+    "Polymeric/Liposome": 1,
+    "Other-HCPT NR": 1,
+    "Molybdenum disulfide": 1,
+    "Arsenic/zirconia": 1,
+    "Bi, Manganese, Fe, Mo": 1,
+    "Platinum": 1,
+    "Iridium": 1,
+    "Silica/\nPolymeric": 1,
+    "Iridium/\nHMON, PEG": 1,
+    "Palladium": 1,
+    "Other-protein": 1,
+    "Cu, Manganese, Si": 1
+  },
+  "missing_numeric": {
+    "size_nm": 11,
+    "zeta_mv": 12
+  },
+  "size_rule": "Use explicitly labelled HD (hydrodynamic diameter) only; TEM-only sizes remain missing.",
+  "time_unit": "hours",
+  "organ_unit": "% injected dose, whole organ",
+  "excluded": [
+    {
+      "id": 2,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 4,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 6,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 7,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 8,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 9,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 10,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 11,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 12,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 13,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 14,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 16,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 17,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 22,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 64,
+      "reason": "nonpositive_or_above_100_percent_ID"
+    },
+    {
+      "id": 78,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 79,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 81,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 82,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 92,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 94,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 95,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 98,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 99,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 101,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 116,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 117,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 120,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 121,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 126,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 127,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 128,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 129,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 130,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 131,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 147,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 175,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 177,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 191,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 192,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 193,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 194,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 199,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 208,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 209,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 227,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 228,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 230,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 231,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 232,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 233,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 234,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 241,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 242,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 248,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 265,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 268,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 271,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 272,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 273,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 274,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 275,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 280,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 281,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 282,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 283,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 284,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 285,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 286,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 294,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 301,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 302,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 303,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 305,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 306,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 309,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 310,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 314,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 317,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 318,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 322,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 339,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 343,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 344,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 347,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 348,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 350,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 351,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 352,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 353,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 355,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 356,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 358,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 377,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 380,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 381,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 382,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 383,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 384,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 385,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 386,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 387,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 388,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 389,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 395,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 396,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 397,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 398,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 405,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 410,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 412,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 415,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 421,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 425,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 426,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 427,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 439,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 444,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 445,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 446,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 452,
+      "reason": "nonpositive_or_above_100_percent_ID"
+    },
+    {
+      "id": 457,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 458,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 459,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 460,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 461,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 464,
+      "reason": "nonpositive_or_above_100_percent_ID"
+    },
+    {
+      "id": 465,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 468,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 469,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 470,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 471,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 473,
+      "reason": "nonpositive_or_above_100_percent_ID"
+    },
+    {
+      "id": 476,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 477,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 478,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 494,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 495,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 496,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 497,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 503,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 506,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 507,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 509,
+      "reason": "nonpositive_or_above_100_percent_ID"
+    },
+    {
+      "id": 517,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 518,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 519,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 522,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 523,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 525,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 526,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 527,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 529,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 530,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 531,
+      "reason": "no_paired_bracket"
+    },
+    {
+      "id": 532,
+      "reason": "no_paired_bracket"
+    }
+  ],
+  "input_sha256": {
+    "nn3c04037_si_002.xlsx": "97d9d41081881cc4de96ed2959092e571efa6105609b88958b87d699b6a2492d"
+  },
+  "primary_core_rule": "Exact source category Polymeric; no outcome-based material assignment.",
+  "reference_grouping": "Slash-linked references are merged as connected components, including all records of either reference."
+}

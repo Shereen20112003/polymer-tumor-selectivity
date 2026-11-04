@@ -1,0 +1,84 @@
+{
+  "status": "passed",
+  "projects": [
+    {
+      "project": "02_polymer_targeting",
+      "pages": 28,
+      "cohort": 142,
+      "publication_groups": 72,
+      "score_recalculation": "passed",
+      "input_hashes": "passed",
+      "publication_separation": "passed",
+      "measured_budget": "passed",
+      "acl_final_format": "passed",
+      "official_template_integrity": "passed",
+      "a4_and_embedded_fonts": "passed",
+      "removed_administrative_text": "passed",
+      "integrated_figures": [
+        {
+          "page": 3,
+          "figures": [
+            "1"
+          ],
+          "body_words": 515
+        },
+        {
+          "page": 4,
+          "figures": [
+            "2"
+          ],
+          "body_words": 253
+        },
+        {
+          "page": 5,
+          "figures": [
+            "3"
+          ],
+          "body_words": 304
+        },
+        {
+          "page": 6,
+          "figures": [
+            "4"
+          ],
+          "body_words": 322
+        }
+      ],
+      "figure_heading_spacing": [
+        {
+          "page": 3,
+          "heading": "different formulations",
+          "heading_to_plot_gap_pt": 20.46
+        },
+        {
+          "page": 4,
+          "heading": "6 Prediction, ablations and sensitivity",
+          "heading_to_plot_gap_pt": 22.74
+        },
+        {
+          "page": 5,
+          "heading": "trade-offs",
+          "heading_to_plot_gap_pt": 20.46
+        },
+        {
+          "page": 6,
+          "heading": "9 Data efficiency and descriptor support",
+          "heading_to_plot_gap_pt": 22.74
+        }
+      ],
+      "main_text_pages": 8,
+      "appendix_pages": 19,
+      "extended_analyses": {
+        "prediction_recalculation": "passed",
+        "nested_training_partitions": "passed",
+        "primary_reproduction": "passed",
+        "configurations": 12,
+        "measured_total_seconds": 362.88567520002834,
+        "sampled_peak_rss_mb": 226.21875
+      }
+    }
+  ],
+  "interval_recalculation": "not_in_this_repository",
+  "polymer_estimand_recalculation": "passed",
+  "warning": "Computational and document integrity only; not scientific peer review or validation of a treatment."
+}

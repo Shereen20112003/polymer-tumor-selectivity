@@ -1,0 +1,106 @@
+{
+  "primary_24h": {
+    "counts": {
+      "Active": 39,
+      "Passive": 103
+    },
+    "overlap_publications": 15,
+    "observational_warning": "Not a causal targeting effect; no randomization or composition matching.",
+    "within_publication": {
+      "estimate_log10": 0.20880610138964287,
+      "lower": 0.0914234019357893,
+      "upper": 0.325407975296006,
+      "repeats": 5000,
+      "seed": 907,
+      "study_contrasts": [
+        0.46979213003665576,
+        0.5711262770843117,
+        0.15069167058363298,
+        0.23254557644244023,
+        0.1596543974381579,
+        -0.27789179689370325,
+        0.2682819392273832,
+        0.3085376124095919,
+        0.0,
+        0.39213145511758807,
+        0.2769254883540595,
+        0.535900508667872,
+        -0.010195649868244505,
+        -0.1353411677405454,
+        0.18993307998544262
+      ]
+    },
+    "pooled_cluster_bootstrap": {
+      "estimate": 0.23461916431515828,
+      "lower": -0.1115854336516502,
+      "upper": 0.6053563245013457,
+      "repeats": 2000,
+      "seed": 601,
+      "clusters": 72
+    }
+  },
+  "exact_24h": {
+    "counts": {
+      "Active": 39,
+      "Passive": 103
+    },
+    "overlap_publications": 15,
+    "observational_warning": "Not a causal targeting effect; no randomization or composition matching.",
+    "within_publication": {
+      "estimate_log10": 0.20880610138964287,
+      "lower": 0.0914234019357893,
+      "upper": 0.325407975296006,
+      "repeats": 5000,
+      "seed": 907,
+      "study_contrasts": [
+        0.46979213003665576,
+        0.5711262770843117,
+        0.15069167058363298,
+        0.23254557644244023,
+        0.1596543974381579,
+        -0.27789179689370325,
+        0.2682819392273832,
+        0.3085376124095919,
+        0.0,
+        0.39213145511758807,
+        0.2769254883540595,
+        0.535900508667872,
+        -0.010195649868244505,
+        -0.1353411677405454,
+        0.18993307998544262
+      ]
+    },
+    "pooled_cluster_bootstrap": {
+      "estimate": 0.23461916431515828,
+      "lower": -0.1115854336516502,
+      "upper": 0.6053563245013457,
+      "repeats": 2000,
+      "seed": 601,
+      "clusters": 72
+    }
+  },
+  "rank_summary": {
+    "spearman_tumor_vs_selectivity": 0.5609823582379456,
+    "top_quartile_count": 36,
+    "top_quartile_overlap_fraction": 0.4722222222222222,
+    "median_tumor_percent_id": 0.625,
+    "median_liver_percent_id": 9.75,
+    "median_tumor_liver_ratio": 0.09151790758106429
+  },
+  "median_log_ratio_bootstrap": {
+    "estimate": -1.038587066384522,
+    "lower": -1.2274374739451266,
+    "upper": -0.8984540969745025,
+    "repeats": 2000,
+    "seed": 602,
+    "clusters": 72
+  },
+  "spearman_bootstrap": {
+    "estimate": 0.5609823582379456,
+    "lower": 0.39577376226005073,
+    "upper": 0.7068001952044465,
+    "repeats": 2000,
+    "seed": 603,
+    "clusters": 72
+  }
+}

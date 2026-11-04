@@ -1,0 +1,8 @@
+{
+  "pareto_formulations": 6,
+  "omission_contrast_min": 0.18292608884002365,
+  "omission_contrast_max": 0.24357023698131045,
+  "coupling_correlation_median": 0.7041269278281257,
+  "primary_reproduction": "passed",
+  "causal_interpretation": false
+}

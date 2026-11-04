@@ -1,0 +1,315 @@
+{
+  "10.1038/s41597-025-04621-9": {
+    "doi": "10.1038/s41597-025-04621-9",
+    "title": "A dataset on formulation parameters and characteristics of drug-loaded PLGA microparticles",
+    "authors": [
+      "Zeqing Bao",
+      "Jongwhi Kim",
+      "Candice Kwok",
+      "Frantz Le Devedec",
+      "Christine Allen"
+    ],
+    "year": 2025,
+    "journal": "Scientific Data",
+    "volume": "12",
+    "pages": "",
+    "url": "https://doi.org/10.1038/s41597-025-04621-9",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.3390/pharmaceutics18070805": {
+    "doi": "10.3390/pharmaceutics18070805",
+    "title": "Diagnosing the Information Limits of In Vitro Drug Release from PLGA Microparticle Data",
+    "authors": [
+      "Kushaan Sharma",
+      "Aryan Shah",
+      "Syna Sharma",
+      "Shreyan Shah",
+      "Mansoor A. Khan",
+      "Mariame Ali"
+    ],
+    "year": 2026,
+    "journal": "Pharmaceutics",
+    "volume": "18",
+    "pages": "805",
+    "url": "https://doi.org/10.3390/pharmaceutics18070805",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1021/acsnano.3c04037": {
+    "doi": "10.1021/acsnano.3c04037",
+    "title": "Meta-Analysis of Nanoparticle Distribution in Tumors and Major Organs in Tumor-Bearing Mice",
+    "authors": [
+      "Qiran Chen",
+      "Long Yuan",
+      "Wei-Chun Chou",
+      "Yi-Hsien Cheng",
+      "Chunla He",
+      "Nancy A. Monteiro-Riviere",
+      "Jim E. Riviere",
+      "Zhoumeng Lin"
+    ],
+    "year": 2023,
+    "journal": "ACS Nano",
+    "volume": "17",
+    "pages": "19810-19831",
+    "url": "https://doi.org/10.1021/acsnano.3c04037",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1038/s41573-020-0090-8": {
+    "doi": "10.1038/s41573-020-0090-8",
+    "title": "Engineering precision nanoparticles for drug delivery",
+    "authors": [
+      "Michael J. Mitchell",
+      "Margaret M. Billingsley",
+      "Rebecca M. Haley",
+      "Marissa E. Wechsler",
+      "Nicholas A. Peppas",
+      "Robert Langer"
+    ],
+    "year": 2020,
+    "journal": "Nature Reviews Drug Discovery",
+    "volume": "20",
+    "pages": "101-124",
+    "url": "https://doi.org/10.1038/s41573-020-0090-8",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1038/natrevmats.2016.14": {
+    "doi": "10.1038/natrevmats.2016.14",
+    "title": "Analysis of nanoparticle delivery to tumours",
+    "authors": [
+      "Stefan Wilhelm",
+      "Anthony J. Tavares",
+      "Qin Dai",
+      "Seiichi Ohta",
+      "Julie Audet",
+      "Harold F. Dvorak",
+      "Warren C. W. Chan"
+    ],
+    "year": 2016,
+    "journal": "Nature Reviews Materials",
+    "volume": "1",
+    "pages": "",
+    "url": "https://doi.org/10.1038/natrevmats.2016.14",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1038/s41563-019-0566-2": {
+    "doi": "10.1038/s41563-019-0566-2",
+    "title": "The entry of nanoparticles into solid tumours",
+    "authors": [
+      "Shrey Sindhwani",
+      "Abdullah Muhammad Syed",
+      "Jessica Ngai",
+      "Benjamin R. Kingston",
+      "Laura Maiorino",
+      "Jeremy Rothschild",
+      "Presley MacMillan",
+      "Yuwei Zhang",
+      "Netra Unni Rajesh",
+      "Tran Hoang",
+      "Jamie L. Y. Wu",
+      "Stefan Wilhelm",
+      "Anton Zilman",
+      "Suresh Gadde",
+      "Andrew Sulaiman",
+      "Ben Ouyang",
+      "Zachary Lin",
+      "Lisheng Wang",
+      "Mikala Egeblad",
+      "Warren C. W. Chan"
+    ],
+    "year": 2020,
+    "journal": "Nature Materials",
+    "volume": "19",
+    "pages": "566-575",
+    "url": "https://doi.org/10.1038/s41563-019-0566-2",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1038/nnano.2011.166": {
+    "doi": "10.1038/nnano.2011.166",
+    "title": "Accumulation of sub-100\u00a0nm polymeric micelles in poorly permeable tumours depends on size",
+    "authors": [
+      "H. Cabral",
+      "Y. Matsumoto",
+      "K. Mizuno",
+      "Q. Chen",
+      "M. Murakami",
+      "M. Kimura",
+      "Y. Terada",
+      "M. R. Kano",
+      "K. Miyazono",
+      "M. Uesaka",
+      "N. Nishiyama",
+      "K. Kataoka"
+    ],
+    "year": 2011,
+    "journal": "Nature Nanotechnology",
+    "volume": "6",
+    "pages": "815-823",
+    "url": "https://doi.org/10.1038/nnano.2011.166",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1038/nnano.2012.237": {
+    "doi": "10.1038/nnano.2012.237",
+    "title": "Transferrin-functionalized nanoparticles lose their targeting capabilities when a biomolecule corona adsorbs on the surface",
+    "authors": [
+      "Anna Salvati",
+      "Andrzej S. Pitek",
+      "Marco P. Monopoli",
+      "Kanlaya Prapainop",
+      "Francesca Baldelli Bombelli",
+      "Delyan R. Hristov",
+      "Philip M. Kelly",
+      "Christoffer \u00c5berg",
+      "Eugene Mahon",
+      "Kenneth A. Dawson"
+    ],
+    "year": 2013,
+    "journal": "Nature Nanotechnology",
+    "volume": "8",
+    "pages": "137-143",
+    "url": "https://doi.org/10.1038/nnano.2012.237",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1007/s10994-006-6226-1": {
+    "doi": "10.1007/s10994-006-6226-1",
+    "title": "Extremely randomized trees",
+    "authors": [
+      "Pierre Geurts",
+      "Damien Ernst",
+      "Louis Wehenkel"
+    ],
+    "year": 2006,
+    "journal": "Machine Learning",
+    "volume": "63",
+    "pages": "3-42",
+    "url": "https://doi.org/10.1007/s10994-006-6226-1",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1016/j.patter.2023.100804": {
+    "doi": "10.1016/j.patter.2023.100804",
+    "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+    "authors": [
+      "Sayash Kapoor",
+      "Arvind Narayanan"
+    ],
+    "year": 2023,
+    "journal": "Patterns",
+    "volume": "4",
+    "pages": "100804",
+    "url": "https://doi.org/10.1016/j.patter.2023.100804",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1111/ecog.02881": {
+    "doi": "10.1111/ecog.02881",
+    "title": "Cross\u2010validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure",
+    "authors": [
+      "David R. Roberts",
+      "Volker Bahn",
+      "Simone Ciuti",
+      "Mark S. Boyce",
+      "Jane Elith",
+      "Gurutzeta Guillera\u2010Arroita",
+      "Severin Hauenstein",
+      "Jos\u00e9 J. Lahoz\u2010Monfort",
+      "Boris Schr\u00f6der",
+      "Wilfried Thuiller",
+      "David I. Warton",
+      "Brendan A. Wintle",
+      "Florian Hartig",
+      "Carsten F. Dormann"
+    ],
+    "year": 2017,
+    "journal": "Ecography",
+    "volume": "40",
+    "pages": "913-929",
+    "url": "https://doi.org/10.1111/ecog.02881",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1561/2200000101": {
+    "doi": "10.1561/2200000101",
+    "title": "Conformal Prediction: A Gentle Introduction",
+    "authors": [
+      "Anastasios N. Angelopoulos",
+      "Stephen Bates"
+    ],
+    "year": 2023,
+    "journal": "Foundations and Trends\u00ae in Machine Learning",
+    "volume": "16",
+    "pages": "494-591",
+    "url": "https://doi.org/10.1561/2200000101",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1007/b106715": {
+    "doi": "10.1007/b106715",
+    "title": "Algorithmic Learning in a Random World",
+    "authors": [],
+    "year": 2005,
+    "journal": "",
+    "volume": "",
+    "pages": "",
+    "url": "https://doi.org/10.1007/b106715",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1002/jps.2600501018": {
+    "doi": "10.1002/jps.2600501018",
+    "title": "Rate of Release of Medicaments from Ointment Bases Containing Drugs in Suspension",
+    "authors": [
+      "Takeru Higuchi"
+    ],
+    "year": 1961,
+    "journal": "Journal of Pharmaceutical Sciences",
+    "volume": "50",
+    "pages": "874-875",
+    "url": "https://doi.org/10.1002/jps.2600501018",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1016/0168-3659(87)90034-4": {
+    "doi": "10.1016/0168-3659(87)90034-4",
+    "title": "A simple equation for description of solute release I. Fickian and non-fickian release from non-swellable devices in the form of slabs, spheres, cylinders or discs",
+    "authors": [
+      "Philip L. Ritger",
+      "Nikolaos A. Peppas"
+    ],
+    "year": 1987,
+    "journal": "Journal of Controlled Release",
+    "volume": "5",
+    "pages": "23-36",
+    "url": "https://doi.org/10.1016/0168-3659(87)90034-4",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1080/01621459.2022.2060112": {
+    "doi": "10.1080/01621459.2022.2060112",
+    "title": "Distribution-Free Prediction Sets for Two-Layer Hierarchical Models",
+    "authors": [
+      "Robin Dunn",
+      "Larry Wasserman",
+      "Aaditya Ramdas"
+    ],
+    "year": 2022,
+    "journal": "Journal of the American Statistical Association",
+    "volume": "118",
+    "pages": "2491-2502",
+    "url": "https://doi.org/10.1080/01621459.2022.2060112",
+    "verification": "Crossref exact DOI lookup"
+  },
+  "10.1016/j.jconrel.2026.115103": {
+    "doi": "10.1016/j.jconrel.2026.115103",
+    "title": "Optimizing intravenous solid tumour treatment through active targeting approaches and polymeric micelles engineering: A meta-analysis in mouse models",
+    "authors": [
+      "In\u00eas Sousa-Oliveira",
+      "Belmiro P.M. Duarte",
+      "Jorge F.J. Coelho",
+      "Ana C. Fonseca",
+      "Francisco Veiga",
+      "Angel Concheiro",
+      "Carmen Alvarez-Lorenzo",
+      "Clare Hoskins",
+      "Ana Cl\u00e1udia Paiva-Santos"
+    ],
+    "year": 2026,
+    "journal": "Journal of Controlled Release",
+    "volume": "396",
+    "pages": "115103",
+    "url": "https://doi.org/10.1016/j.jconrel.2026.115103",
+    "verification": "Crossref exact DOI lookup"
+  }
+}

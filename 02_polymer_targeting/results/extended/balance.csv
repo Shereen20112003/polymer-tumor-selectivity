@@ -1,0 +1,3 @@
+feature,active_n,passive_n,active_mean,passive_mean,standardized_difference,overlap_groups,within_mean_difference
+size_nm,35,96,130.84971428571427,124.78890729166665,0.07740247196462978,12,16.892333333333337
+zeta_mv,35,95,-12.268,-5.235910736842105,-0.4095852820787952,12,-2.202166666666667

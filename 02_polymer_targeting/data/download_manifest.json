@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://api.figshare.com/v2/articles/24274513",
+    "file": "02_polymer_targeting\\data\\figshare_metadata.json",
+    "sha256": "2ce4f204accf0653f7905eb0ac7b42fc272967e475bcc8e99f79676513719d2c",
+    "bytes": 8442,
+    "checked_utc": "2026-11-03T12:22:24.238043+00:00",
+    "downloaded_now": false
+  },
+  {
+    "url": "https://ndownloader.figshare.com/files/42609052",
+    "file": "02_polymer_targeting\\data\\nn3c04037_si_002.xlsx",
+    "sha256": "97d9d41081881cc4de96ed2959092e571efa6105609b88958b87d699b6a2492d",
+    "bytes": 5216094,
+    "checked_utc": "2026-11-03T12:22:24.266163+00:00",
+    "downloaded_now": false
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10604101/fullTextXML",
+    "file": "02_polymer_targeting\\data\\source_article_2023.xml",
+    "sha256": "43538094cc0cd2c729b496f8314eab43235736649440ef4987ad9cc30cdf1f65",
+    "bytes": 346566,
+    "checked_utc": "2026-11-03T12:22:24.319253+00:00",
+    "downloaded_now": false
+  }
+]

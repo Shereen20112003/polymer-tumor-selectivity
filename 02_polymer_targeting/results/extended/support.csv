@@ -1,0 +1,31 @@
+seed,feature,support_type,test_n,unsupported_n,unsupported_fraction,missing_fraction
+11,size_nm,Outside training range,43,1,0.023255813953488372,0.06976744186046512
+11,zeta_mv,Outside training range,43,0,0.0,0.06976744186046512
+11,strategy,Unseen category,43,0,0.0,0.0
+11,shape,Unseen category,43,0,0.0,0.0
+11,core,Unseen category,43,0,0.0,0.0
+11,tumor_cell,Unseen category,43,25,0.5813953488372093,0.0
+29,size_nm,Outside training range,24,2,0.08333333333333333,0.16666666666666666
+29,zeta_mv,Outside training range,24,1,0.041666666666666664,0.0
+29,strategy,Unseen category,24,0,0.0,0.0
+29,shape,Unseen category,24,0,0.0,0.0
+29,core,Unseen category,24,0,0.0,0.0
+29,tumor_cell,Unseen category,24,12,0.5,0.0
+47,size_nm,Outside training range,23,0,0.0,0.0
+47,zeta_mv,Outside training range,23,0,0.0,0.08695652173913043
+47,strategy,Unseen category,23,0,0.0,0.0
+47,shape,Unseen category,23,0,0.0,0.0
+47,core,Unseen category,23,0,0.0,0.0
+47,tumor_cell,Unseen category,23,17,0.7391304347826086,0.0
+71,size_nm,Outside training range,31,0,0.0,0.0
+71,zeta_mv,Outside training range,31,2,0.06451612903225806,0.0967741935483871
+71,strategy,Unseen category,31,0,0.0,0.0
+71,shape,Unseen category,31,0,0.0,0.0
+71,core,Unseen category,31,0,0.0,0.0
+71,tumor_cell,Unseen category,31,13,0.41935483870967744,0.0
+101,size_nm,Outside training range,23,0,0.0,0.043478260869565216
+101,zeta_mv,Outside training range,23,0,0.0,0.08695652173913043
+101,strategy,Unseen category,23,0,0.0,0.0
+101,shape,Unseen category,23,1,0.043478260869565216,0.0
+101,core,Unseen category,23,0,0.0,0.0
+101,tumor_cell,Unseen category,23,10,0.43478260869565216,0.0

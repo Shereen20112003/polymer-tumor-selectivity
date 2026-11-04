@@ -1,0 +1,762 @@
+size_nm,zeta_mv,strategy,shape,core,tumor_cell,study,id,tumor,liver,log_ratio,exact_time
+,-18.0,Active,Rod,Gold,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",1,1,2.06,31.7,-1.187192041848598,True
+42.0,-5.0,Active,Spherical,Gold,"9L.E29 cell in Brain
+[Xenograft Heterotopic Model]",3,3,4.28,13.09,-0.4854958775375838,True
+68.4,-9.3,Active,Others,Gold,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",4,5,0.45,50.86,-2.0531638420643463,True
+,,Passive,Spherical,Gold,"DU145 cell in Prostate
+[Xenograft Heterotopic Model]",7,15,0.02,2.27,-2.0549958615291413,True
+24.1,-21.3,Active,Others,Gold,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",9,18,1.87,15.85,-0.9281876600172713,True
+25.8,21.7,Passive,Others,Gold,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",9,19,0.81,16.67,-1.3134505809493555,True
+20.8,24.6,Passive,Others,Gold,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",9,20,0.64,18.3,-1.4562711157465422,True
+18.2,25.4,Passive,Others,Gold,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",9,21,0.51,21.7,-1.628889557750593,True
+69.8,0.0,Passive,Spherical,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",11,23,2.79,38.47,-1.1395179830332178,True
+111.3,0.0,Passive,Others,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",11,24,0.87,64.85,-1.8723907278014804,True
+130.5,0.0,Passive,Plate,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",11,25,0.55,56.38,-2.0107623820413396,True
+77.0,0.0,Passive,Rod,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",11,26,0.22,52.39,-2.37682571762574,True
+5.5,0.0,Passive,Spherical,Gold,"MCF-7 cell in Breast
+[Xenograft Orthortopic Model]",12,27,5.18,3.26,0.201112159677294,True
+31.0,,Active,Spherical,Gold,"A431 cell in Skin
+[Xenograft Orthortopic Model]",13,28,2.29,11.02,-0.6823461121758783,True
+63.7,10.2,Passive,Others,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",14,29,2.77,43.79,-1.198895176127677,True
+96.0,18.7,Passive,Others,Gold,"EMT6 cell in Breast
+[Allograft Heterotopic Model]",14,30,0.52,18.38,-1.5483421634152932,True
+66.5,-2.6,Passive,Spherical,Gold,"LNCaP cell in Prostate
+[Xenograft Heterotopic Model]",15,31,0.96,29.13,-1.4820692515880989,True
+62.8,-27.1,Passive,Spherical,Gold,"LNCaP cell in Prostate
+[Xenograft Heterotopic Model]",15,32,0.67,34.9,-1.7167506242583535,True
+71.7,-2.9,Active,Spherical,Gold,"LNCaP cell in Prostate
+[Xenograft Heterotopic Model]",15,33,1.22,31.15,-1.4070982203204403,True
+60.2,-10.6,Passive,Spherical,Gold,"LNCaP cell in Prostate
+[Xenograft Heterotopic Model]",15,34,0.06,51.33,-2.932220013877119,True
+63.0,0.0,Passive,Spherical,Gold,"LCL cell in Lymphoma
+[Xenograft Heterotopic Model]",16,35,0.52,2.27,-0.6400225135583235,True
+15.0,-10.0,Passive,Rod,Gold,"DU145 cell in Prostate
+[Xenograft Heterotopic Model]",17,36,0.78,37.87,-1.6862007024303458,True
+15.0,-44.1,Active,Rod,Gold,"DU145 cell in Prostate
+[Xenograft Heterotopic Model]",17,37,0.28,63.36,-2.3546571372392178,True
+10.0,1.1,Passive,Rod,Gold,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",18,38,9.17,13.3,-0.16148230529706475,True
+88.9,-27.1,Passive,Spherical,Gold,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",18,39,0.99,45.68,-1.6640909006402418,True
+82.6,0.0,Passive,Spherical,Gold,"MDA-MB-435 cell in Skin
+[Xenograft Orthortopic Model]",19,40,0.74,0.87,-0.07028753288764235,True
+39.6,0.0,Passive,Spherical,Gold,"MDA-MB-435 cell in Skin
+[Xenograft Orthortopic Model]",19,41,0.24,2.2,-0.9622114391106003,True
+61.3,0.0,Passive,Spherical,Gold,"MDA-MB-435 cell in Skin
+[Xenograft Orthortopic Model]",19,42,1.29,22.93,-1.24981434443069,True
+99.4,0.0,Passive,Spherical,Gold,"MDA-MB-435 cell in Skin
+[Xenograft Orthortopic Model]",19,43,0.02,5.37,-2.428944290035574,True
+22.4,0.0,Passive,Spherical,Gold,"MDA-MB-435 cell in Skin
+[Xenograft Orthortopic Model]",19,44,0.01,0.08,-0.9030899869919435,True
+41.8,-0.06,Passive,Rod,Other-SiO2@AuNR,"4T1 cell in Breast
+[Allograft Heterotopic Model]",20,45,0.83,70.47,-1.9289261791211945,True
+7.2,-23.5,Passive,Spherical,Gold,"4T1 cell in Breast
+[Allograft Heterotopic Model]",20,46,0.6,69.13,-2.06151530649879,True
+44.3,-14.1,Passive,Rod,Other-SiO2@AuNR,"4T1 cell in Breast
+[Allograft Heterotopic Model]",20,47,0.45,77.18,-2.2342922604600344,True
+20.2,-20.2,Passive,Rod,Gold,"4T1 cell in Breast
+[Allograft Heterotopic Model]",20,48,0.28,74.72,-2.426278831879818,True
+71.7,6.1,Active,Spherical,Gold,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",21,49,0.04,31.12,-2.890979596989689,True
+5.0,,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",22,50,3.93,4.17,-0.02574350459833081,True
+5.0,,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",22,51,2.52,22.1,-0.9429917329035666,True
+5.0,2.5,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",22,52,2.46,21.2,-0.9354007538253724,True
+22.0,,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",22,53,1.47,37.78,-1.4099446188376388,True
+22.0,,Passive,Spherical,Gold,"MatLyLu cell in Prostate
+[Xenograft Heterotopic Model]",22,54,0.61,36.84,-1.7809897865140443,True
+11.0,,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",22,55,0.24,58.31,-2.3855317997094385,True
+2.7,-18.4,Active,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,56,2.05,0.14,1.1656258253775162,True
+2.7,-22.1,Active,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,57,1.99,0.15,1.1227618173540255,True
+2.7,-42.3,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,58,1.96,0.35,0.7481880270062005,True
+2.7,-25.6,Active,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,59,1.59,0.26,0.7864237763496336,True
+2.7,-16.6,Active,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,60,1.55,0.15,1.0142404391146103,True
+2.7,-16.8,Passive,Spherical,Gold,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",23,61,0.9,0.14,0.8081144737610868,True
+51.6,3.0,Active,Rod,Gold,"SCC-7 cell in Skin
+[Allograft Orthortopic Model]",24,62,4.67,31.85,-0.833792556105257,True
+,-25.9,Passive,Spherical,Gold,"EAC cell in Breast
+[Allograft Heterotopic Model]",25,63,1.32,2.55,-0.28596624922810526,True
+,-11.0,Passive,Rod,Gold,"DU145 cell in Prostate
+[Xenograft Heterotopic Model]",26,65,4.8,93.64,-1.2902201676489995,True
+,,Passive,Spherical,Gold,"B78H1 cell in Skin
+[Allograft Orthortopic Model]",27,66,6.69,20.63,-0.4890731102053284,True
+24.4,-28.6,Active,Spherical,Iron Oxide,"A431 cell in Skin
+[Xenograft Orthortopic Model]",28,67,1.11,24.73,-1.34790113757464,True
+,,Active,Spherical,Iron Oxide,"SkBr3 cell in Breast
+[Xenograft Heterotopic Model]",29,68,0.79,9.59,-1.0841915158802222,True
+139.1,-11.6,Active,Spherical,Iron Oxide,"PC3 cell in Prostate
+[Xenograft Heterotopic Model]",30,69,0.62,10.43,-1.225892618928277,True
+68.0,,Active,Spherical,Iron Oxide,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",31,70,1.3,7.2,-0.7433891441244317,True
+68.0,,Passive,Spherical,Iron Oxide,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",31,71,0.62,9.07,-1.1652155975618415,True
+50.8,,Passive,Spherical,Iron Oxide,"4T1 cell in Breast
+[Allograft Heterotopic Model]",32,72,0.37,1.48,-0.6020599913279624,True
+,,Active,Spherical,Iron Oxide/Polymeric,"HBT3477 cell in Breast
+[Xenograft Heterotopic Model]",33,73,5.01,26.22,-0.7187949614868198,True
+22.3,-4.6,Active,Spherical,Silica,"N87 cell in Stomach
+[Xenograft Heterotopic Model]",34,74,11.2,10.74,0.018213741306644812,True
+28.1,-0.6,Active,Spherical,Silica,"N87 cell in Stomach
+[Xenograft Heterotopic Model]",34,75,8.0,11.35,-0.15190587453719792,True
+39.4,-4.5,Active,Spherical,Silica,"N87 cell in Stomach
+[Xenograft Heterotopic Model]",34,76,5.0,23.81,-0.677789391068861,True
+40.3,-3.3,Active,Spherical,Silica,"N87 cell in Stomach
+[Xenograft Heterotopic Model]",34,77,5.2,24.82,-0.6787984335279118,True
+59.0,-7.4,Passive,Spherical,Silica,"4T1 cell in Breast
+[Allograft Heterotopic Model]",36,80,0.31,49.72,-2.2051694261353343,True
+194.4,-5.1,Passive,Spherical,Silica,"4T1 cell in Breast
+[Allograft Heterotopic Model]",38,83,1.25,11.24,-0.9538562982249859,True
+194.4,-5.1,Active,Spherical,Silica,"4T1 cell in Breast
+[Allograft Heterotopic Model]",38,84,0.61,15.6,-1.4077947633436945,True
+175.3,-3.25,Passive,Spherical,Silica,"4T1 cell in Breast
+[Allograft Heterotopic Model]",39,85,0.41,13.98,-1.532723314689927,True
+175.3,-3.25,Active,Spherical,Silica,"4T1 cell in Breast
+[Allograft Heterotopic Model]",39,86,0.82,11.85,-1.159904497962406,True
+6.8,0.0,Passive,Spherical,Silica,"M21 cell in Skin
+[Xenograft Orthortopic Model]",40,87,0.07,0.82,-1.0687158123694598,True
+7.0,-3.0,Active,Spherical,Silica,"M21 cell in Skin
+[Xenograft Orthortopic Model]",40,88,0.24,2.17,-0.9562484921369235,True
+168.0,-2.7,Active,Spherical,Other-MoS2-Fe3O4,"4T1 cell in Breast
+[Allograft Heterotopic Model]",41,89,0.92,15.09,-1.2149014124300346,True
+150.2,-2.3,Passive,Spherical,Other-CaP,"4T1 cell in Breast
+[Allograft Heterotopic Model]",41,90,0.51,9.42,-1.266480726694941,True
+53.2,-12.4,Active,Spherical,Other- Manganese,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",42,91,4.23,0.62,0.8339486778767885,True
+190.1,-21.9,Passive,Others,Iron Oxide,"PANC-1 cell in Pancreas
+[Xenograft Heterotopic Model]",44,93,0.49,7.99,-1.2123506992854778,True
+150.0,-19.0,Passive,Others,Other-Mg2Al-Co3 LDH,"4T1 cell in Breast
+[Allograft Heterotopic Model]",47,96,1.63,22.23,-1.134751858295033,True
+,-14.6,Active,Rod,Other-Cobalt,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",48,97,0.13,0.5,-0.585026652029182,True
+438.3,-14.4,Passive,Spherical,Other-Bi2Se3,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",50,100,2.01,23.89,-1.075020092329389,True
+255.3,-27.6,Passive,Spherical,Silica,"4T1 cell in Breast
+[Allograft Orthortopic Model]",52,102,0.25,55.28,-2.3446280256941043,True
+210.0,27.0,Passive,Spherical,Silica/Liposome,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",53,103,0.74,9.06,-1.0878964779458369,True
+243.0,-11.7,Passive,Spherical,Silica/Liposome,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",54,104,7.35,31.48,-0.6317473846028321,True
+107.7,-14.0,Passive,Spherical,Silica,"4T1 cell in Breast
+[Allograft Orthortopic Model]",55,105,1.35,9.38,-0.8418690698840584,True
+210.0,24.1,Passive,Rod,Silica/PDA,"4T1 cell in Breast
+[Allograft Orthortopic Model]",56,106,6.09,35.31,-0.7632804249302219,True
+210.0,24.1,Active,Rod,Silica/PDA,"4T1 cell in Breast
+[Allograft Orthortopic Model]",56,107,23.13,27.76,-0.07924382901219792,True
+49.2,0.0,Passive,Spherical,Other-Gd3N@C80/Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",57,108,0.41,62.46,-2.182818123174444,True
+205.0,-25.5,Active,Spherical,Copper,"MCF7 cell in Breast
+[Xenograft Heterotopic Model]",58,109,0.04,2.96,-1.8692317197309762,True
+,,Passive,Spherical,Silica,"C-26 cell in Colon
+[Allograft Heterotopic Model]",59,110,0.42,13.04,-1.4920283009980009,True
+210.0,-31.6,Active,Spherical,Silica,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",60,111,3.23,15.01,-0.6671781699121675,True
+222.6,-17.9,Passive,Spherical,Silica,"S180 cell in Sarcoma
+[Allograft Orthortopic Model]",61,112,32.59,7.44,0.6415114249192655,True
+36.7,-8.5,Passive,Spherical,Polymeric,"LLC cell in Lung
+[Allograft Heterotopic Model]",62,113,1.53,11.75,-0.8853464357901563,True
+37.0,,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",63,114,0.92,8.16,-0.9479023314083058,True
+37.0,,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",63,115,0.43,13.1,-1.4838028400761778,True
+22.26,-1.48,Passive,Spherical,Polymeric,"MCF-7/ADR cell in Breast
+[Xenograft Heterotopic Model]",65,118,0.03,0.59,-1.2937307569224816,True
+22.26,-1.48,Passive,Spherical,Polymeric,"MCF-7/ADR cell in Breast
+[Xenograft Heterotopic Model]",65,119,0.11,0.76,-0.8394209071225663,True
+227.0,-3.2,Passive,Rod,Polymeric,"SKOV-3 cell in Ovary
+[Xenograft Heterotopic Model]",67+200,122,0.42,1.16,-0.44120869882901803,True
+263.0,-3.4,Passive,Others,Polymeric,"SKOV-3 cell in Ovary
+[Xenograft Heterotopic Model]",67+200,123,0.34,1.75,-0.7115591316440393,True
+216.0,-3.11,Passive,Rod,Polymeric,"A549 cell in Lung
+[Xenograft Heterotopic Model]",67+200,124,0.04,4.04,-2.0043213737826426,True
+216.0,-3.36,Passive,Rod,Polymeric,"A549 cell in Lung
+[Xenograft Heterotopic Model]",67+200,125,0.06,5.49,-1.9614210940664483,True
+30.0,-2.29,Passive,Spherical,Polymeric,"BxPC3 cell in Pancreas
+[Xenograft Heterotopic Model]",69,132,1.31,9.88,-0.8774856489318639,True
+54.0,-1.61,Passive,Spherical,Polymeric,"BxPC3 cell in Pancreas
+[Xenograft Heterotopic Model]",69,133,0.83,12.93,-1.1925204325043202,True
+69.0,-0.89,Passive,Spherical,Polymeric,"BxPC3 cell in Pancreas
+[Xenograft Heterotopic Model]",69,134,0.51,14.09,-1.44134081701142,True
+110.0,0.15,Passive,Spherical,Polymeric,"BxPC3 cell in Pancreas
+[Xenograft Heterotopic Model]",69,135,0.47,16.33,-1.5408883268009508,True
+70.9,4.0,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",70,136,0.42,4.86,-1.063386978864393,True
+86.6,2.0,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",70,137,0.32,6.48,-1.3064250275506875,True
+64.0,3.0,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",70,138,0.42,6.28,-1.1747103533392957,True
+88.9,-0.96,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",71,139,0.36,9.43,-1.418209191970041,True
+87.1,-0.47,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",71,140,0.22,6.65,-1.4803989644808984,True
+64.21,-0.39,Passive,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,141,0.57,9.62,-1.2273002163653215,True
+68.35,-1.07,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,142,0.49,11.26,-1.3613423104868139,True
+69.22,-1.98,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,143,0.66,10.47,-1.2004027461369737,True
+72.51,-2.33,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,144,0.51,12.24,-1.3802112417116061,True
+77.47,-6.95,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,145,0.75,15.38,-1.3118950720737121,True
+91.29,-9.25,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",72,146,0.63,22.84,-1.5593555501202288,True
+22.5,0.0,Active,Spherical,Polymeric,"Cl-66 cell in Breast
+[Allograft Orthortopic Model]",74,148,5.34,36.41,-0.8336794219053874,True
+65.0,-2.0,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",75,149,1.25,12.39,-0.9961612933680071,True
+221.6,,Passive,Spherical,Polymeric,"S180 cell in Sarcoma
+[Allograft Heterotopic Model]",76,150,2.22,8.35,-0.5753335010329634,True
+20.0,,Active,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",77,151,0.31,27.25,-1.9440048127783887,True
+20.0,,Passive,Spherical,Polymeric,"KB cell in Cervix
+[Xenograft Heterotopic Model]",77,152,0.16,21.78,-2.1339378927638313,True
+133.5,-15.75,Passive,Spherical,Polymeric,"EAT cell in Breast
+[Allograft Heterotopic Model]",78,153,0.53,43.3,-1.9122120267525764,True
+149.2,-13.2,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,154,8.37,11.98,-0.15573136006003266,True
+157.3,-23.2,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,155,6.58,14.2,-0.33406245076910096,True
+156.0,-38.4,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,156,4.59,18.23,-0.5989739831177151,True
+456.5,-25.1,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,157,0.57,20.35,-1.5526895578887474,True
+150.1,14.8,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,158,0.26,17.23,-1.8213119294772104,True
+150.6,25.5,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,159,0.12,20.14,-2.2248782201699746,True
+152.7,34.6,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,160,0.34,17.65,-1.7152657926815862,True
+300.7,24.4,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",79,161,0.16,16.4,-2.010723865391773,True
+40.0,-4.0,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",80,162,1.12,10.67,-0.9789463967542883,True
+399.0,38.1,Passive,Spherical,Polymeric,"EAT cell in Breast
+[Allograft Heterotopic Model]",81,163,4.48,14.02,-0.4954699996324958,True
+276.0,16.4,Passive,Spherical,Polymeric,"EAT cell in Breast
+[Allograft Heterotopic Model]",81,164,4.49,21.58,-0.6818050993435687,True
+37.0,-2.0,Active,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",82,165,0.96,13.73,-1.1553993041971866,True
+26.2,-16.4,Passive,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",82,166,0.43,10.56,-1.390195462618207,True
+21.9,-9.46,Passive,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",83,167,0.84,13.02,-1.1903316981702914,True
+27.0,-0.08,Active,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",83,168,0.47,13.31,-1.4520801975389577,True
+90.0,-30.0,Passive,Plate,Other-Graphene,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",84,169,2.16,7.13,-0.5186357787009346,True
+27.7,-9.46,Passive,Plate,Other-Graphene,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",85,170,0.22,15.16,-1.8382765204738285,True
+32.9,-5.0,Active,Plate,Other-Graphene,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",85,171,0.34,13.92,-1.6121603182322881,True
+27.0,-0.08,Active,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",86,172,0.94,8.15,-0.938029755140278,True
+21.9,-9.46,Passive,Plate,Other-Graphene,"4T1 cell in Breast
+[Allograft Heterotopic Model]",86,173,0.6,11.88,-1.2966651902615312,True
+200.0,,Passive,Rod,Other-SWCNT,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",87,174,0.8,30.7,-1.584048388485243,True
+200.0,,Passive,Rod,Other-SWCNT,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",87,176,1.29,17.83,-1.1405616328761057,True
+96.4,-59.4,Passive,Spherical,Liposome,"ME180 cell in Cervix
+[Xenograft Orthortopic Model]",88,178,1.52,18.92,-1.0950775441210014,True
+79.1,-36.1,Passive,Spherical,Liposome,"TP53 cell in Breast
+[Allograft Orthortopic Model]",89,179,0.18,7.21,-1.602662759616123,True
+79.1,-36.1,Passive,Spherical,Liposome,"Other cell in Breast
+[Allograft Orthortopic Model]",89,180,0.5,5.64,-1.0523090996473234,True
+386.0,20.0,Active,Spherical,Liposome,"EAT cell in Breast
+[Allograft Heterotopic Model]",90,181,1.79,8.37,-0.6698724270133668,True
+120.0,0.0,Passive,Spherical,Liposome,"MET1 cell in Breast
+[Allograft Orthortopic Model]",91,182,1.1,13.98,-1.1041144862514376,True
+25.0,-3.0,Passive,Spherical,Liposome,"HEK293 cell in Kidney
+[Xenograft Heterotopic Model]",92,183,0.1,34.73,-2.5407047833107623,True
+51.0,-4.0,Passive,Spherical,Liposome,"HEK293 cell in Kidney
+[Xenograft Heterotopic Model]",92,184,0.06,40.09,-2.824884805866878,True
+93.0,-6.0,Passive,Spherical,Liposome,"HEK293 cell in Kidney
+[Xenograft Heterotopic Model]",92,185,0.1,34.05,-2.532117116248804,True
+225.0,,Active,Spherical,Liposome,"C-26 cell in Colon
+[Allograft Heterotopic Model]",93,186,0.71,12.23,-1.2361681083172102,True
+168.0,,Passive,Spherical,Liposome,"C-26 cell in Colon
+[Allograft Heterotopic Model]",93,187,0.56,9.08,-1.2098978215148846,True
+118.0,0.0,Passive,Spherical,Liposome,"C-26 cell in Colon
+[Allograft Heterotopic Model]",94,188,0.35,4.97,-1.1522883443830565,True
+200.0,-2.0,Passive,Spherical,Liposome,"ARO cell in Other
+[Xenograft Heterotopic Model]",95,189,0.08,8.42,-2.022222104507706,True
+100.0,0.0,Passive,Spherical,Liposome,"A375 cell in Skin
+[Xenograft Orthortopic Model]",96,190,1.24,2.5,-0.30451832350980257,True
+78.0,-45.0,Active,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",98,195,0.12,10.13,-1.9264281993126557,True
+87.5,-30.0,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",99,196,0.56,16.55,-1.4706099711055372,True
+146.0,9.0,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",100,197,0.2,13.78,-1.8382192219076257,True
+138.5,9.0,Active,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",100,198,0.2,13.57,-1.8315498519957558,True
+132.6,-24.6,Passive,Spherical,Hydrogel,"PANC-1 cell in Pancreas
+[Xenograft Heterotopic Model]",102,200,0.46,77.81,-2.2282775836337367,True
+179.0,-22.3,Passive,Spherical,Hydrogel,"PANC-1 cell in Pancreas
+[Xenograft Heterotopic Model]",102,201,1.27,81.19,-1.8056988204494586,True
+230.8,-18.1,Active,Spherical,Hydrogel,"PANC-1 cell in Pancreas
+[Xenograft Heterotopic Model]",102,202,2.31,72.08,-1.4942027980788621,True
+132.0,-34.2,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",103,203,0.76,8.48,-1.0475822599759226,True
+193.0,-25.7,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",104,204,0.22,4.03,-1.2628823653189032,True
+8.0,-1.3,Passive,Spherical,Dendrimer,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",105,205,8.97,7.22,0.09425524547445305,True
+6.6,-1.46,Passive,Spherical,Polymeric,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",105,206,0.14,0.22,-0.19629464514396813,True
+6.0,2.28,Passive,Spherical,Polymeric,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",105,207,1.38,36.76,-1.4254964163128372,True
+5.0,,Passive,Spherical,Dendrimer,"KB cell in Cervix
+[Xenograft Heterotopic Model]",107,210,2.52,3.07,-0.08573783469564238,True
+5.0,,Active,Spherical,Dendrimer,"KB cell in Cervix
+[Xenograft Heterotopic Model]",107,211,7.37,12.54,-0.23083004863564613,True
+95.0,-36.0,Passive,Rod,Other-VNP,"U87MG cell in Brain
+[Xenograft Heterotopic Model]",108,212,0.09,9.71,-2.03297672046868,True
+16.4,-19.2,Passive,Spherical,Polymeric,"A2780 cell in Ovary
+[Xenograft Orthortopic Model]",109,213,4.88,4.85,0.0026780834004469533,True
+163.0,-4.34,Passive,Rod,Other-Anticancer drug,"4T1 cell in Breast
+[Allograft Heterotopic Model]",110,214,4.08,18.87,-0.6651117370750514,True
+221.0,-4.34,Passive,Rod,Other-Anticancer drug,"4T1 cell in Breast
+[Allograft Heterotopic Model]",110,215,3.14,20.72,-0.8194601029999805,True
+324.0,-4.34,Passive,Rod,Other-Anticancer drug,"4T1 cell in Breast
+[Allograft Heterotopic Model]",110,216,2.66,23.7,-0.9498667093790368,True
+402.0,-4.34,Passive,Rod,Other-Anticancer drug,"4T1 cell in Breast
+[Allograft Heterotopic Model]",110,217,2.44,36.9,-1.179636539820331,True
+85.8,71.3,Passive,Spherical,Other-SLN,"H1975 cell in Lung
+[Xenograft Heterotopic Model]",111,218,0.1,7.09,-1.8506462351830666,True
+134.7,0.6,Passive,Spherical,Other-SLN,"H1975 cell in Lung
+[Xenograft Heterotopic Model]",111,219,0.43,4.1,-0.9793154011401489,True
+168.2,-0.8,Active,Spherical,Other-SLN,"H1975 cell in Lung
+[Xenograft Heterotopic Model]",111,220,0.46,3.3,-0.8557561081963134,True
+387.0,-46.6,Passive,Spherical,Other-SLN,"Dalton's cell in Lymphoma
+[Allograft Heterotopic Model]",112,221,0.38,2.24,-0.7704644217173527,True
+164.7,-30.5,Passive,Spherical,Polymeric,"T98G cell in Brain
+[Xenograft Orthortopic Model]",113,222,0.62,1.88,-0.4817661597654259,True
+175.3,-27.2,Active,Spherical,Polymeric,"T98G cell in Brain
+[Xenograft Orthortopic Model]",113,223,0.74,1.26,-0.2311388253865867,True
+171.7,-32.8,Passive,Spherical,Polymeric,"T98G cell in Brain
+[Xenograft Orthortopic Model]",113,224,0.7,1.49,-0.3280882283980172,True
+186.9,-29.5,Active,Spherical,Polymeric,"T98G cell in Brain
+[Xenograft Orthortopic Model]",113,225,1.01,0.44,0.36086869729645515,True
+134.0,,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",114,226,0.02,3.55,-2.249198357391113,True
+174.0,-22.9,Passive,Spherical,Polymeric,"Ehrlich cell in Breast
+[Allograft Heterotopic Model]",116,229,0.01,0.01,0.0,True
+185.9,-24.7,Active,Spherical,Polymeric,"M109 cell in Lung
+[Allograft Heterotopic Model]",118,235,0.12,1.2,-1.0,True
+176.6,-23.1,Passive,Spherical,Polymeric,"M109 cell in Lung
+[Allograft Heterotopic Model]",118,236,0.04,1.49,-1.5711262770843117,True
+108.0,-2.3,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",119,237,2.78,7.74,-0.4446961647648163,True
+49.9,0.09,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",120,238,0.41,8.48,-1.3156119955369783,True
+,-19.7,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",121,239,1.01,5.31,-0.7207731472988265,True
+,-16.8,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",121,240,1.62,6.02,-0.5700814767151935,True
+230.4,,Passive,Rod,Other-MWCNT,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",124,243,7.66,22.63,-0.4704557843221246,True
+230.1,-10.0,Passive,Rod,Other-MWCNT,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",124,244,7.66,22.06,-0.45937673847156785,True
+241.0,0.0,Passive,Rod,Other-MWCNT,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",124,245,7.21,22.3,-0.49036959832873167,True
+242.3,3.8,Active,Rod,Other-MWCNT,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",124,246,18.42,28.28,-0.18618977926403169,True
+240.3,-10.0,Active,Rod,Other-MWCNT,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",124,247,18.7,28.36,-0.18086461997453,True
+7.7,,Active,Spherical,Dendrimer,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",126,249,6.37,2.79,0.35853522906175284,True
+7.7,,Active,Spherical,Dendrimer,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",126,250,10.94,19.1,-0.24201604525031561,True
+7.7,,Active,Spherical,Dendrimer,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",126,251,13.86,12.74,0.036593802276456276,True
+49.5,-1.3,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",127,252,1.04,4.8,-0.6642078980768068,True
+115.0,-20.0,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",128,253,0.01,14.12,-3.149834696715785,True
+103.9,-15.0,Passive,Spherical,Liposome,"C-26 cell in Colon
+[Allograft Heterotopic Model]",129,254,0.19,1.2,-0.8004276450947958,True
+102.5,-39.5,Passive,Spherical,Liposome,"C-26 cell in Colon
+[Allograft Heterotopic Model]",129,255,0.2,3.5,-1.2430380486862944,True
+35.0,-4.0,Passive,Spherical,Polymeric,"Bcap37 cell in Cervix
+[Xenograft Heterotopic Model]",130,256,0.17,46.0,-2.4323089103033,True
+100.0,-4.0,Passive,Spherical,Polymeric,"Bcap37 cell in Cervix
+[Xenograft Heterotopic Model]",130,257,1.46,20.97,-1.1572455746809067,True
+110.0,-4.0,Passive,Spherical,Polymeric,"Bcap37 cell in Cervix
+[Xenograft Heterotopic Model]",130,258,1.39,24.06,-1.2382808227497308,True
+100.0,-4.0,Passive,Spherical,Polymeric,"Bcap37 cell in Cervix
+[Xenograft Heterotopic Model]",130,259,1.38,24.38,-1.2471546148811266,True
+150.0,-4.0,Passive,Spherical,Polymeric,"Bcap37 cell in Cervix
+[Xenograft Heterotopic Model]",130,260,1.54,52.31,-1.531063999190973,True
+107.8,,Passive,Spherical,Polymeric,"U14 cell in Cervix
+[Allograft Heterotopic Model]",131,261,0.29,2.7,-0.9689657662600313,True
+25.0,,Passive,Star,"Other-10-HCPT anticancer drug/ 
+Polymeric","LS174T cell in Colon
+[Xenograft Heterotopic Model]",132,262,1.6642857142857144,41.59142857142857,-1.3977759523057627,False
+115.0,-31.8,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",133,263,0.08,0.26,-0.5118833609788743,True
+113.3,10.0,Passive,Spherical,Other-Albumin,"4T1 cell in Breast
+[Allograft Orthortopic Model]",134,264,2.65,2.31,0.0596338940446635,True
+6.7,16.3,Passive,Spherical,Dendrimer,"S180 cell in Sarcoma
+[Allograft Orthortopic Model]",136,266,4.82,6.43,-0.12516393468537243,True
+69.1,36.7,Active,Spherical,Other-PMCN,"S180 cell in Sarcoma
+[Allograft Orthortopic Model]",136,267,16.79,8.02,0.3208763278538853,True
+152.0,-10.3,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",138,269,0.11,13.05,-2.0742178265160747,True
+157.0,-8.8,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",138,270,0.2,13.89,-1.8416722500736344,True
+20.4,3.91,Passive,Spherical,Liposome,"H22 cell in Liver
+[Allograft Heterotopic Model]",141,276,0.01,0.24,-1.380211241711606,False
+110.0,-5.1,Passive,Spherical,Liposome,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",142,277,0.23,0.64,-0.4444521379662943,True
+111.3,-6.2,Active,Spherical,Polymeric,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",142,278,0.34,0.7,-0.3136191229720017,True
+105.3,-4.8,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",143,279,0.72,3.88,-0.7314992291629387,True
+106.8,35.6,Passive,Spherical,Polymeric,"A549-WT cell in Lung
+[Xenograft Heterotopic Model]",147,287,0.34,8.19,-1.3818049847181633,True
+227.3,28.3,Active,Spherical,Polymeric,"A549-WT cell in Lung
+[Xenograft Heterotopic Model]",147,288,0.4,9.4,-1.3710678622717363,True
+106.8,35.6,Passive,Spherical,Polymeric,"A549-DDP cell in Lung
+[Xenograft Heterotopic Model]",147,289,0.3,11.58,-1.586587304671755,True
+227.3,28.3,Active,Spherical,Polymeric,"A549-DDP cell in Lung
+[Xenograft Heterotopic Model]",147,290,0.62,11.76,-1.2780156322418659,True
+96.6,0.0,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",148,291,0.56,0.19,0.4694344260533715,True
+125.5,-7.4,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",149,292,0.29,5.86,-1.3054996181191345,True
+130.4,-2.3,Active,Spherical,Other-Albumin,"H22 cell in Liver
+[Allograft Heterotopic Model]",149,293,0.38,5.34,-1.1477576604117463,True
+182.6,-22.6,Passive,Spherical,Polymeric,"Hca-F cell in Liver
+[Allograft Heterotopic Model]",151,295,3.01,5.29,-0.2448891764413424,True
+152.0,0.0,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",152,296,0.96,7.25,-0.8780667735314253,True
+163.0,0.0,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",152,297,0.78,11.17,-1.1559585704251285,True
+152.0,0.0,Active,Spherical,Liposome,"H22 cell in Liver
+[Allograft Heterotopic Model]",152,298,1.56,12.76,-0.9127260760306819,True
+93.0,-32.2,Passive,Spherical,Liposome,"PC3 cell in Prostate
+[Xenograft Heterotopic Model]",153,299,0.23,7.03,-1.485227489002231,True
+102.0,-12.2,Active,Spherical,Other-HA NPs,"PC3 cell in Prostate
+[Xenograft Heterotopic Model]",153,300,0.61,6.93,-1.0554033996010397,True
+12.4,27.2,Active,Spherical,Other-Albumin,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",156,304,2.36,1.04,0.3558786636713262,True
+122.5,-30.1,Passive,Spherical,"Polymeric/
+Hydrogel","H22 cell in Liver
+[Allograft Heterotopic Model]",158,307,0.04,0.24,-0.7781512503836436,True
+218.6,-30.1,Active,Spherical,"Polymeric/
+Hydrogel","H22 cell in Liver
+[Allograft Heterotopic Model]",158,308,0.05,0.17,-0.5314789170422551,True
+,-22.1,Active,Spherical,Polymeric,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",160,311,0.19,8.48,-1.6496422513038849,True
+143.0,,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",161,312,0.19,16.66,-1.94292139611794,True
+149.0,,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",161,313,0.29,13.71,-1.6746394568905567,True
+166.1,-36.7,Passive,Spherical,Polymeric,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",163,315,0.18,2.36,-1.1176394978668005,True
+140.0,-27.1,Passive,Spherical,Other-10-HCPT (SN38),"4T1 cell in Breast
+[Allograft Heterotopic Model]",164,316,0.01,7.67,-2.884795363948981,True
+76.3,-13.0,Passive,Spherical,Polymeric,"HT-29 cell in Colon
+[Xenograft Heterotopic Model]",166,319,0.42,9.24,-1.3424226808222064,True
+150.0,0.0,Passive,Spherical,Polymeric,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",167,320,0.38,4.24,-1.0475822599759226,True
+153.0,0.0,Active,Spherical,Polymeric,"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",167,321,0.6,3.29,-0.7390446475663307,True
+166.4,12.3,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",169,323,0.07,0.42,-0.7781512503836436,True
+175.1,8.7,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",169,324,0.11,0.66,-0.7781512503836436,True
+204.7,-26.9,Passive,Spherical,Other-Soy protein,"H22 cell in Liver
+[Allograft Heterotopic Model]",170,325,0.3,10.79,-1.5559001899632483,True
+220.3,-38.0,Active,Spherical,Other-Soy protein,"H22 cell in Liver
+[Allograft Heterotopic Model]",170,326,0.39,10.78,-1.4415541538242207,True
+186.3,-19.0,Passive,Spherical,Other-Curcumin,"H22 cell in Liver
+[Allograft Heterotopic Model]",171,327,0.01,0.09,-0.9542425094393249,True
+56.2,0.0,Passive,Plate,Polymeric/Liposome,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",172,328,0.46,1.71,-0.5702382787105797,True
+20.3,-2.0,Passive,Spherical,Polymeric,"EMT6/AR1 cell in Breast
+[Allograft Heterotopic Model]",173,329,0.67,8.0,-1.077015184291117,True
+197.4,-20.4,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",174,330,2.59,20.5,-0.8984540969745025,True
+276.8,-23.5,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",174,331,2.34,25.05,-1.0295918727931217,True
+350.0,-27.2,Active,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",174,332,0.92,29.27,-1.5026348950882367,True
+258.3,-23.7,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",175,333,2.52,21.77,-0.9364578882595502,True
+156.6,-23.7,Passive,Spherical,Polymeric,"H22 cell in Liver
+[Allograft Heterotopic Model]",175,334,4.22,25.16,-0.7753981858115575,True
+,-15.6,Active,Spherical,Other-Curcumin,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",176,335,0.97,2.71,-0.4461975566081609,True
+115.7,-36.4,Passive,Spherical,Liposome,"Other cell in Lymphoma
+[Xenograft Heterotopic Model]",177,336,0.29,14.08,-1.6862046569071374,True
+,25.1,Passive,Spherical,Polymeric,"A549 cell in Lung
+[Xenograft Heterotopic Model]",178,337,7.78,3.65,0.32868673253321423,True
+,21.1,Active,Spherical,Polymeric,"A549 cell in Lung
+[Xenograft Heterotopic Model]",178,338,18.14,3.45,0.7208181876508023,True
+122.6,-15.0,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Heterotopic Model]",180,340,1.03,6.9,-0.8260118660320831,True
+57.3,34.5,Passive,Spherical,Liposome,"SKOV-3 cell in Ovary
+[Xenograft Heterotopic Model]",181,341,0.09,0.31,-0.5371191843949479,True
+80.3,-36.9,Active,Spherical,Liposome,"SKOV-3 cell in Ovary
+[Xenograft Heterotopic Model]",181,342,0.15,0.32,-0.32905871926422475,True
+168.6,24.2,Passive,Rod,Other-HCPT NR,"H22 cell in Liver
+[Allograft Heterotopic Model]",183,345,0.73,6.27,-0.9339446807102605,True
+18.6,-1.8,Passive,Spherical,Polymeric,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",184,346,1.13,3.11,-0.43968194554341783,True
+121.0,-2.4,Active,Spherical,Polymeric,"MDA-MB-231 cell in Breast
+[Xenograft Orthortopic Model]",186,349,0.14,0.33,-0.37238590419964945,True
+96.0,0.0,Passive,Spherical,Polymeric,"PC3-RES cell in Prostate
+[Xenograft Heterotopic Model]",189,354,4.42,63.96,-1.1604861857251052,True
+120.0,-18.0,Passive,Spherical,Polymeric,"C-26 cell in Colon
+[Allograft Heterotopic Model]",191,357,0.05,0.9,-1.255272505103306,True
+79.1,-40.0,Active,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",193,359,0.35,1.59,-0.6573290799701759,True
+66.3,-40.0,Active,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",193,360,0.2,5.82,-1.4638929889859074,True
+163.4,-19.6,Passive,Spherical,Polymeric,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",194,361,9.16,40.15,-0.6417900759468493,True
+118.5,-13.7,Passive,Spherical,Polymeric,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",194,362,7.46,37.33,-0.6993191624536357,True
+161.0,-30.9,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",195,363,0.32,15.18,-1.6761217932395556,True
+69.9,-2.1,Active,Spherical,Dendrimer,"4T1 cell in Breast
+[Allograft Heterotopic Model]",196,364,10.31,13.78,-0.12599055228809042,True
+102.8,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,365,1.85,18.55,-1.0011721855480509,True
+102.8,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,366,2.01,20.57,-1.0100382342742351,True
+102.8,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,367,1.94,16.36,-0.9259815694050781,True
+108.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,368,2.66,27.74,-1.018224820106199,True
+108.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,369,3.08,25.71,-0.9215513601424163,True
+108.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,370,2.32,22.6,-0.9886204542565014,True
+118.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,371,1.88,17.45,-0.9676375820315188,True
+118.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,372,1.38,17.45,-1.1019163448939622,True
+118.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,373,1.53,17.77,-1.0649959969877028,True
+92.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,374,2.11,16.15,-0.8838900713694291,True
+92.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,375,2.7,12.61,-0.6693513224140942,True
+92.0,0.0,Passive,Spherical,Polymeric,"MX-1 cell in Breast
+[Xenograft Heterotopic Model]",197,376,2.49,6.84,-0.43885675462437984,True
+190.5,-10.1,Passive,Rod,Other-Anticancer drug (PTX),"B16-F10 cell in Skin
+[Allograft Orthortopic Model]",199,378,0.05,1.89,-1.5774917998372253,True
+181.4,-5.7,Active,Spherical,Liposome,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",156,379,10.24,10.54,-0.012540654236715793,True
+13.0,,Passive,Others,Polymeric,"CT26 cell in Colon
+[Xenograft Heterotopic Model]",205,390,2.28,29.03,-1.10491218883122,True
+170.0,-43.0,Active,Plate,molybdenum disulfide,"A549 cell in Lung
+[Xenograft Heterotopic Model]",206,391,0.81,14.11,-1.241041994875698,True
+32.0,-12.0,Active,Spherical,Polymeric,"H22  cell in Liver
+[Allograft Heterotopic Model]",207,392,3.53,13.52,-0.5832019862177946,True
+53.0,-16.0,Active,Spherical,Polymeric,"H22  cell in Liver
+[Allograft Heterotopic Model]",207,393,2.84,13.94,-0.690944433714953,True
+148.0,-23.0,Active,Spherical,Polymeric,"H22  cell in Liver
+[Allograft Heterotopic Model]",207,394,2.67,14.35,-0.730340639705436,True
+123.0,-20.8,Active,Spherical,copper,"4T1-LG12 cell in Breast
+[Xenograft Orthortopic Model]",209,399,6.47,32.67,-0.7032448538067371,True
+6.3,-6.9,Active,Spherical,Gadolinium,"E0771 cell in Breast
+[Xenograft Orthortopic Model]",210,400,0.91,1.24,-0.13438029284114147,True
+6.3,-6.9,Passive,Spherical,Gadolinium,"E0771 cell in Breast
+[Xenograft Orthortopic Model]",210,401,0.44,0.85,-0.28596624922810526,True
+6.3,-6.9,Active,Spherical,Gadolinium,"E0771 cell in Breast
+[Xenograft Orthortopic Model]",210,402,0.37,0.72,-0.2891307723642734,True
+150.0,,Passive,Rod,"copper,cedium","HepG2 cell in Liver
+[Xenograft Heterotopic Model]",211,403,0.18,1.72,-0.9802559418042429,True
+241.89,-21.9,Passive,Spherical,Iron Oxide,"A549 cell in Lung
+[Xenograft Heterotopic Model]",212,404,0.35,17.43,-1.6972293427597176,True
+116.2,-36.4,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Xenograft Orthortopic Model]",214,406,0.2,0.16,0.09691001300805642,True
+102.9,-41.1,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Xenograft Orthortopic Model]",214,407,0.86,0.1,0.9344984512435677,True
+110.8,-47.5,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Xenograft Orthortopic Model]",214,408,0.52,0.09,0.7617608341954744,True
+106.7,-46.7,Active,Spherical,Polymeric,"4T1 cell in Breast
+[Xenograft Orthortopic Model]",214,409,1.04,0.42,0.3937840489008799,True
+83.0,-30.4,Passive,Spherical,Manganese,"C6 cell in Glioma
+[Allograft Orthortopic Model]",216,411,0.000220128,11.48,-4.717266600292447,True
+,6.36,Passive,Spherical,Arsenic/zirconia,"H22  cell in Liver
+[Xenograft Heterotopic Model]",217,413,47.65,51.21,-0.03129187086005084,True
+100.0,,Passive,Spherical,Liposome,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",218,414,1.12,29.055,-1.4140028571046104,False
+121.0,-4.3,Active,Spherical,Liposome,"MDA-MB-231 cell in Breast
+[Xenograft Orthortopic Model]",220,416,0.55,5.63,-1.0101457053571024,True
+400.0,-42.57,Passive,Spherical,Gold,"B16F10 cell in Melanoma
+[Allograft Heterotopic Model]",221,417,7.97,22.36,-0.4480134778182734,True
+13.64,0.77,Passive,Spherical,Silica,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",222,418,6.86,23.76,-0.5395223206024042,True
+13.64,0.77,Passive,Spherical,Silica,"MDA-MB 231 cell in Breast
+[Xenograft Heterotopic Model]",222,419,0.9550000000000001,22.5325,-1.3728060081547695,False
+139.6,-16.49,Passive,Spherical,Manganese,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",223,420,2.85,24.15,-0.9280722750790207,True
+144.0,,Passive,Spherical,Polymeric,"U14 cell in Cervix
+[Xenograft Heterotopic Model]",225,422,1.3,3.65,-0.4483495121496379,True
+129.4,-7.92,Passive,Spherical,Liposome,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",226,423,0.0011,0.01,-0.958607314841775,True
+114.8,-24.3,Passive,Spherical,Liposome,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",226,424,0.0021,0.02,-0.978810700930062,True
+,-20.8,Passive,Rod,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",228,428,0.33,64.86,-2.2934630044590665,True
+,-14.7,Passive,Rod,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",228,429,2.01,7.19,-0.5535328329623938,True
+120.0,-25.0,Passive,Spherical,Liposome,"C26 cell in Colon
+[Allograft Heterotopic Model]",229,430,0.18,3.77,-1.3210688451024868,True
+135.0,-18.0,Passive,Spherical,Liposome,"C26 cell in Colon
+[Allograft Heterotopic Model]",229,431,0.89,1.73,-0.28865609648388263,True
+310.0,-10.96,Passive,Plate,Titanium,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",230,432,0.4,34.43,-1.9348770313767112,True
+310.0,-20.0,Passive,Plate,Titanium,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",230,433,0.91,47.77,-1.7201138489622603,True
+143.2,-8.8,Active,Rod,Gold,"EAC cell in Other
+[Allograft Heterotopic Model]",231,434,1.94,9.49,-0.6894644824970666,True
+32.78,-1.74,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",232,435,2.86,1.34,0.3292612347642353,True
+32.78,-1.74,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",232,436,0.8,1.23,-0.1868151244474543,True
+203.5,-22.2,Active,Spherical,Gadolinium,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",233,437,0.48,22.96,-1.6797306463503487,True
+203.5,-22.2,Active,Spherical,Molybdenum disulfide,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",233,438,1.37,29.36,-1.3310354840876262,True
+250.0,-15.8,Active,Spherical,Copper,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",235,440,0.6,6.7,-1.0479235523171828,True
+280.1,-2.629,Passive,Spherical,Polymeric,"H22  cell in Liver
+[Xenograft Heterotopic Model]",236,441,0.45,14.47,-1.5072560173436937,True
+296.5,-1.078,Passive,Spherical,Polymeric,"H22  cell in Liver
+[Xenograft Heterotopic Model]",236,442,0.46,14.5,-1.4986101705534007,True
+100.0,-8.0,Active,Plate,Manganese,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",237,443,1.0,21.45,-1.331427296520743,True
+235.4,-20.9,Passive,Spherical,Tungsten Disulfide,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",240,447,0.89,23.79,-1.4270044353923534,True
+235.4,-20.9,Passive,Spherical,Tungsten Disulfide,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",240,448,0.56,8.09,-1.1597604946060718,True
+,-41.93,Passive,Rod,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",241,449,0.03,27.45,-2.9614210940664485,True
+,-29.6,Passive,Rod,Polymeric,"4T1 cell in Breast
+[Allograft Orthortopic Model]",241,450,0.07,26.91,-2.584815657749498,True
+103.9,-3.0,Passive,Spherical,Polymeric,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",242,451,0.01,0.43,-1.6334684555795866,True
+122.0,-1.0,Passive,Spherical,Liposome,"MIA PaCa-2 cell in Pancreas
+[Xenograft Heterotopic Model]",244,453,0.16,1.87,-1.0677216238805742,True
+30.0,-25.8,Active,Spherical,Polymeric,"SKOV3 cell in Ovary
+[Xenograft Heterotopic Model]",245,454,0.04,1.04,-1.414973347970818,True
+225.2,-18.57,Passive,Spherical,Copper,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",246,455,3.47,5.1,-0.16724070130706256,True
+104.8451,-1.66452,Passive,Spherical,Polymeric,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",247,456,2.16,9.4,-0.6386741024487678,True
+136.2,-24.2,Active,Spherical,Liposome,"S180 cell in Sarcoma
+[Xenograft Heterotopic Model]",248,462,6.03,21.61,-0.55433745474309,True
+136.2,-24.2,Active,Spherical,Liposome,"S180 cell in Sarcoma
+[Xenograft Heterotopic Model]",248,463,5.19,29.56,-0.7555370718743302,True
+63.6,-2.2,Active,Spherical,Copper,"U87MG cell in Glioma
+[Xenograft Orthortopic Model]",250,466,9.41,27.1,-0.45937966744714887,True
+63.6,-2.2,Active,Spherical,Platinum,"U87MG cell in Glioma
+[Xenograft Orthortopic Model]",250,467,0.17,2.37,-1.1442994246318299,True
+109.0,3.45,Active,Spherical,Platnium,"A2780CIS cell in Ovary
+[Xenograft Heterotopic Model]",255,472,0.78,11.28,-1.160214496956843,True
+178.0,-15.7,Active,Spherical,Polymeric,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",256,474,0.98,31.53,-1.5074978950554099,True
+141.0,-17.6,Passive,Spherical,Polymeric,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",257,475,0.43,30.97,-1.8574727497772001,True
+7.3,,Active,Spherical,Silica,"BT-474 cell in Breast
+[Xenograft Heterotopic Model]",260,479,0.5,6.03,-1.0813473078041325,True
+7.2,,Passive,Spherical,Silica,"BT-474 cell in Breast
+[Xenograft Heterotopic Model]",260,480,0.19,7.05,-1.5694355160385698,True
+7.3,,Active,Spherical,Silica,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",260,481,0.17,5.4,-1.5019448384446947,True
+6.4,,Active,Spherical,Silica,"BT-474 cell in Breast
+[Xenograft Heterotopic Model]",260,482,3.71,4.75,-0.10731970000982072,True
+6.4,,Passive,Spherical,Silica,"BT-474 cell in Breast
+[Xenograft Heterotopic Model]",260,483,0.11,7.09,-1.8092535500248415,True
+,-27.2,Active,Spherical,Polymeric,"PC-3 cell in Prostate
+[Xenograft Heterotopic Model]",261,484,0.59,8.14,-1.1397723932470571,True
+,-13.5,Passive,Spherical,Polymeric,"PC-3 cell in Prostate
+[Xenograft Heterotopic Model]",261,485,0.29,7.57,-1.4166978816011166,True
+28.7,48.1,Active,Spherical,Platnium,"U14 cell in Cervix
+[Xenograft Heterotopic Model]",262,486,2.05,13.34,-0.8134019685247759,True
+191.448,-21.24,Passive,Others,"Bi, Manganese, Fe, Mo","HeLa cell in Cervix
+[Xenograft Heterotopic Model]",263,487,0.73,8.12,-1.0462331691207194,True
+72.9,,Active,Spherical,Silica,"SK-BR-3 cell in Breast
+[Xenograft Heterotopic Model]",264,488,0.07,21.41,-2.4855186272801815,True
+76.97,,Active,Spherical,Silica,"SK-BR-3 cell in Breast
+[Xenograft Heterotopic Model]",264,489,0.11,18.67,-2.2297516327908533,True
+,,Passive,Spherical,"Silica/
+Polymeric","U87MG cell in Glioma
+[Xenograft Heterotopic Model]",265,490,1.5,18.44,-1.0896696576619294,True
+230.0,,Passive,Others,Iridium,"HeLa cell in Cervix
+[Xenograft Heterotopic Model]",266,491,1.15,45.78,-1.5999779479849126,True
+128.1,-7.43,Passive,Spherical,Silica,"HepG2 cell in Liver
+[Xenograft Heterotopic Model]",267,492,0.83,31.44,-1.5784044449912964,True
+249.0,0.0,Active,Spherical,Hydrogel,"A549 cell in Lung
+[Xenograft Heterotopic Model]",268,493,0.5366666666666666,67.41666666666666,-2.09906265425246,False
+,-12.5,Active,Spherical,Liposome,"4T1 cell in Breast
+[Xenograft Heterotopic Model]",271,498,7.343043478260869,18.468695652173913,-0.40056012488597126,False
+197.0,-36.0,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",272,499,0.36,18.29,-1.7059112047091296,True
+276.0,-32.0,Passive,Spherical,Hydrogel,"H22 cell in Liver
+[Allograft Heterotopic Model]",272,500,0.6,14.69,-1.3888705454066128,True
+123.1,-10.4,Passive,Spherical,Polymeric,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",273,501,0.4,6.54,-1.213517756996305,True
+128.8,-22.7,Passive,Spherical,Polymeric,"MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",273,502,0.26,6.45,-1.3945863666644498,True
+105.185,-8.421,Active,Spherical,"Iridium/
+HMON, PEG","MDA-MB-231 cell in Breast
+[Xenograft Heterotopic Model]",275,504,0.35,10.38,-1.4721293091621634,True
+102.0,,Active,Spherical,Ruthenium,"A549 cell in Lung
+[Xenograft Heterotopic Model]",276,505,14.19,36.42,-0.40935754600142726,True
+169.9,-17.3,Active,Spherical,Other,"A549 cell in Lung
+[Xenograft Heterotopic Model]",278,508,1.14,22.03,-1.286109645814295,True
+22.0,-10.6,Passive,Plate,Palladium,"B16F10 cell in Melanoma
+[Allograft Orthortopic Model]",280,510,0.98,9.19,-0.9720894356936164,True
+187.0,7.9,Passive,Spherical,Polymeric,"4T1 cell in Breast
+[Xenograft Orthortopic Model]",281,511,5.22,5.39,-0.013918262184476542,True
+41.0,,Passive,Others,Manganese,"H22 cell in Liver
+[Allograft Heterotopic Model]",282,512,0.37,4.39,-1.0742627961751263,True
+130.0,9.5,Passive,Spherical,Ruthenium,"MCF-7 cell in Breast
+[Xenograft Heterotopic Model]",283,513,1.06,38.52,-1.5603804131877266,True
+34.86,-21.3,Active,Spherical,Gold,"MiaPaCa-2  cell in Pancreas
+[Xenograft Heterotopic Model]",284,514,0.49,10.98,-1.3504062600855595,True
+34.86,-21.3,Active,Spherical,Gold,"BxPC-3 cell in Pancreas
+[Xenograft Heterotopic Model]",284,515,2.94,10.98,-0.5722550097019159,True
+34.86,-21.3,Active,Spherical,Gold,"BxPC-3 cell in Pancreas
+[Xenograft Orthortopic Model]",284,516,0.41,18.21,-1.6475260890751846,True
+87.0,,Active,Spherical,Other-protein,"H22 cell in Liver
+[Allograft Heterotopic Model]",287,520,2.35,10.33,-0.6430324592478843,True
+105.0,-37.864,Passive,Spherical,Liposome,"HCT116 cell in Colon
+[Xenograft Heterotopic Model]",288,521,0.2,1.15,-0.7596678446896304,True
+80.85,-9.03,Active,Spherical,Dendrimer,"H22 cell in Liver
+[Allograft Heterotopic Model]",290,524,6.27,13.87,-0.34480892024256843,True
+69.744,-12.9,Active,Spherical,"Cu, Manganese, Si","4T1 cell in Breast
+[Xenograft Orthortopic Model]",292,528,1.67,19.55,-1.0684302905843024,True
+169.1,-17.2,Passive,Spherical,Other,"A549 cell in Lung
+[Xenograft Heterotopic Model]",296,533,0.63,24.24,-1.5851920660406669,True
+230.0,,Active,Spherical,Polymeric,"S180 cell in Sarcoma
+[Allograft Heterotopic Model]",297,534,0.0005,0.02,-1.6020599913279623,True

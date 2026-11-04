@@ -1,0 +1,77 @@
+{
+  "pages": 28,
+  "main_text_pages": 8,
+  "references_start_page": 9,
+  "appendix_start_page": 10,
+  "references_appendix_pages": 20,
+  "appendix_pages": 19,
+  "characters_per_page": [
+    3890,
+    4191,
+    3800,
+    3013,
+    3280,
+    3451,
+    4329,
+    2867,
+    3043,
+    3021,
+    2911,
+    2681,
+    2635,
+    3174,
+    2973,
+    3585,
+    3398,
+    2905,
+    2063,
+    2972,
+    2971,
+    2403,
+    2186,
+    2108,
+    2115,
+    2841,
+    3119,
+    799
+  ],
+  "author": "Shereen Anand",
+  "format": "Official ACL LaTeX, final mode",
+  "template_commit": "d5adc823ff0f80f98c80405ca0ab66c68e684409",
+  "pagination": "Natural flow; no fixed page count or custom font/margin overrides",
+  "boundary_note": "Main text, references and appendices start on separate pages.",
+  "content_sections": 32,
+  "tables": 40,
+  "figures": 4,
+  "bibliography_notes": {
+    "print_years": {
+      "10.1038/s41573-020-0090-8": 2021,
+      "10.1080/01621459.2022.2060112": 2023
+    },
+    "print_year_verification": "Crossref published-print dates, exact DOI lookups",
+    "book_creators_verification": "https://alrw.net/ (2005 first edition)"
+  },
+  "figure_layout": "Column-width vector plots placed within the results text",
+  "figure_heading_spacing": [
+    {
+      "page": 3,
+      "heading": "different formulations",
+      "heading_to_plot_gap_pt": 20.46
+    },
+    {
+      "page": 4,
+      "heading": "6 Prediction, ablations and sensitivity",
+      "heading_to_plot_gap_pt": 22.74
+    },
+    {
+      "page": 5,
+      "heading": "trade-offs",
+      "heading_to_plot_gap_pt": 20.46
+    },
+    {
+      "page": 6,
+      "heading": "9 Data efficiency and descriptor support",
+      "heading_to_plot_gap_pt": 22.74
+    }
+  ]
+}

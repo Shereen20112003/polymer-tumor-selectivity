@@ -1,0 +1,23 @@
+{
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "primary_time_hours": 24,
+  "sensitivity_hours": [
+    6,
+    24,
+    48
+  ],
+  "bootstrap_unit": "publication",
+  "target": "log10(tumor %ID / liver %ID)",
+  "trees": 128,
+  "min_samples_leaf": 3,
+  "ridge_alpha": 10,
+  "hyperparameter_search": false,
+  "causal_claims": false,
+  "note": "Exploratory protocol fixed in code before outcomes; not externally preregistered."
+}
